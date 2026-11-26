@@ -4,4 +4,4 @@ Full-stack developer working mainly with **Java / Spring Boot** and **TypeScript
 - **[eslint-plugin-ng-material](https://www.npmjs.com/package/eslint-plugin-ng-material)**: an ESLint plugin on npm that auto-fixes Angular Material button attributes to the camelCase `matButton` syntax.
 - **[ai-rules-template](https://github.com/sertacozmen1/ai-rules-template)**: a language-agnostic starter for AI-assisted projects: AGENTS.md rules, Diátaxis docs, ADRs and an OpenSpec workflow.
 
-LinkedIn: [LINKEDIN_URL](https://www.linkedin.com/in/sertacozmen/)
+LinkedIn: [sertacozmen](https://www.linkedin.com/in/sertacozmen/)
